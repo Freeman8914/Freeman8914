@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning institute
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/fwzuilI774ewrhfGBN/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/fwzuilI774ewrhfGBN/giphy.gif" width="400"/>
 </div>
